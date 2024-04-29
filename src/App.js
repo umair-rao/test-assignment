@@ -1,8 +1,10 @@
+import PagesCard from './components/PagesCard';
+import './styles/App.css'
 
 function App() {
   return (
     <div className="App">
-      <h1>Umair</h1>
+      <PagesCard/>
     </div>
   );
 }
